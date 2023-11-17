@@ -14,4 +14,4 @@ Below is a table of franchise leaders in different catagories throughout the Kan
 | Sacks | Derrick Thomas | 126.5 | 1989-1999 |
 | Points | Nick Lowery | 1,466 | 1980-1993 |
 
-[Home]()
+[Home](https://github.com/grant-trent/MarkdownChallenge#readme)
